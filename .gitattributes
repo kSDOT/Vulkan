@@ -1,3 +1,2 @@
 *linguist-vendored
-*.c++ linguist-vendored=false
-*.vulkan linguist-vendored=false
+*.cpp linguist-vendored=false
