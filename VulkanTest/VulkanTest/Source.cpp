@@ -2,13 +2,11 @@
 //TUTORIAL NR.2 (VULKAN OFFICIAL GUIDE)
 //********************************
 #include "vkapp.h"
+#include <iostream>
+#include <vector>
 int main() {
 
 }
-
-
-
-
 
 
 //********************************
