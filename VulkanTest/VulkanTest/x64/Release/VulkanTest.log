@@ -1,0 +1,7 @@
+﻿  Common.cpp
+  Source.cpp
+  vkapp.cpp
+c:\users\klejdi\desktop\vulkan\projects\vulkantest\vulkantest\vkapp.cpp(47): error C3861: 'vkEnumerateInstanceExtensionProperties': identifier not found
+c:\users\klejdi\desktop\vulkan\projects\vulkantest\vulkantest\vkapp.cpp(53): error C3861: 'vkEnumerateInstanceExtensionProperties': identifier not found
+c:\users\klejdi\desktop\vulkan\projects\vulkantest\vulkantest\vkapp.cpp(93): error C3861: 'vkCreateInstance': identifier not found
+  VulkanFunctions.cpp
